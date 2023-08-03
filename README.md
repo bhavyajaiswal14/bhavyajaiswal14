@@ -25,16 +25,16 @@
 <table align="center">
 <tr>
 <td>
-  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyajaiswal14&theme=radical&hide_border=true" alt="bhavyajaiswal14" height="200" /></a>
+  <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyajaiswal14&theme=merko&hide_border=true" alt="bhavyajaiswal14" height="200" /></a>
 </td>
 <td>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyajaiswal14&show_icons=true&locale=en&theme=radical&hide_border=true" alt="bhavyajaiswal14" height="200" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavyajaiswal14&show_icons=true&locale=en&theme=merko&hide_border=true" alt="bhavyajaiswal14" height="200" /></a>
 </td>
 </tr>
 </table>
 
 <p align="center"><a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyajaiswal14&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="bhavyajaiswal14"  /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyajaiswal14&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" alt="bhavyajaiswal14"  /></a>
   </a></p>
  
   
