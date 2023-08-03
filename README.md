@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="49"/> I'm Bhavya Jaiswal</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
-<img align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" height="280" />
+<img align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" height="250" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavyajaiswal14&label=Profile%20views&color=0e75b6&style=flat" alt="bhavyajaiswal14" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhavya_j14" target="blank"><img src="https://img.shields.io/twitter/follow/bhavya_j14?logo=twitter&style=for-the-badge" alt="bhavya_j14" /></a> </p>
 
-<pre>- 🌱 I’m currently learning Web Development</pre>
+- 🌱 I’m currently learning Web Development
 
-<pre>- 💬 Ask me about HTML, CSS, JavaScript, CSS Frameworks</pre>
+- 💬 Ask me about HTML, CSS, JavaScript, CSS Frameworks
 
-<pre>- 📫 How to reach me bhavyajaiswal2004@gmail.com</pre>
+- 📫 How to reach me bhavyajaiswal2004@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
